@@ -1,1 +1,1 @@
-# Basic.py
+print("Hello world")
